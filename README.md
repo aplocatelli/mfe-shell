@@ -1,1 +1,1 @@
-# mfe-shell
+# Microfrontend Root Config (Shell)
